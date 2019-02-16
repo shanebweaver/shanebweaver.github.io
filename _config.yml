@@ -1,25 +1,26 @@
 # Site settings
-title: Identity
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Identity theme by HTML5 UP.
-baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Shane Weaver 2019
+email: shanebweaver@gmail.com
+description: Engineer + Entrepreneur
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Identity
-your-name: Jane Doe
-your-title: Senior Psychonautics Engineer
+your-name: Shane Weaver
+your-title: Engineer + Entrepreneur
 
 # Social settings
 500px_url:
-facebook_url: https://facebook.com
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+facebook_url: https://www.facebook.com/shane.weaver
+github_url: https://github.com/shanebweaver
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/shanebweaver
+linkedin_url: https://www.linkedin.com/in/shanebweaver
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/shanebweaver
+blog_url: http://www.mycoblog.com
 
 # Build settings
 markdown: kramdown
