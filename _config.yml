@@ -1,13 +1,13 @@
 # Site settings
 title: Shane Weaver
 email: shanebweaver@gmail.com
-description: Engineer + Entrepreneur
+description: Human Software Engineer
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "www.shanebweaver.com" # the base hostname & protocol for your site
 
 # Identity
 your-name: Shane Weaver
-your-title: Engineer + Entrepreneur
+your-title: Human Software Engineer
 
 # Social settings
 500px_url:
@@ -20,7 +20,7 @@ linkedin_url: https://www.linkedin.com/in/shanebweaver
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/shanebweaver
-blog_url: http://www.mycoblog.com
+blog_url:
 
 # Build settings
 markdown: kramdown
